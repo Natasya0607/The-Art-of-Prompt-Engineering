@@ -1,4 +1,4 @@
-# Build a chatbot to Analyze PDF Documents Using LLM 
+# course The Art of Prompt Engineering
 ## Author : Cognitive class AI 
 
 Mentee assignment from IBM Advance AI @ Infinite Learning 
