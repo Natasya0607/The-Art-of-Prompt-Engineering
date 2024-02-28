@@ -9,9 +9,4 @@ Nama : Natasya Salsabila
 
 Program : IBM Advance AI
 
-## Tech Stack:
-- Python 
-- HTML
-- CSS
-- JavaScript
-- Flask
+
